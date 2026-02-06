@@ -147,6 +147,23 @@
   <!-- ── Toast Notifikasi ──────────────────────────────────────────────────── -->
   <div class="toast" id="toast" role="alert" aria-live="assertive"></div>
 
+  <!-- ── Modal QRIS Selection ──────────────────────────────────────────────── -->
+  <div class="modal hidden" id="qrisModal">
+    <div class="modal-overlay" id="qrisModalOverlay"></div>
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title">📱 Pilih Daerah QRIS</h3>
+        <button class="modal-close" id="qrisModalClose">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-description">Pilih daerah untuk download QRIS yang sesuai:</p>
+        <div class="qris-region-list" id="qrisRegionList">
+          <!-- Diisi oleh JavaScript -->
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- ── Scripts (JSON version - loads data) ───────────────── -->
   <script src="script/app.js"></script>
 </body>
