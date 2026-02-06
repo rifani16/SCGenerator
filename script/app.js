@@ -253,9 +253,9 @@ async function handleGenerate() {
 
 Rekening:
 🏦 BSI ${CONFIG.rekening.bsi}
-a.n ${CONFIG.rekening.atas_nama}
+a.n ${CONFIG.rekening.anBsi}
 🏦 Mandiri ${CONFIG.rekening.mandiri}
-a.n ${CONFIG.rekening.atas_nama}
+a.n ${CONFIG.rekening.anMandiri}
 
 📞 Konfirmasi: ${nomorKonfirmasi}`;
 
