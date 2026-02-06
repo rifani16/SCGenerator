@@ -253,7 +253,7 @@ async function handleGenerate() {
 
 Rekening:
 🏦 BSI ${CONFIG.rekening.bsi}
-a.n ${CONFIG.rekening.anBsi}
+a.n ${CONFIG.rekening.anBSI}
 🏦 Mandiri ${CONFIG.rekening.mandiri}
 a.n ${CONFIG.rekening.anMandiri}
 
