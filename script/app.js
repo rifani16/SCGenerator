@@ -81,7 +81,7 @@ async function loadData() {
 
     // Set default value untuk nomor konfirmasi
     if (CONFIG && CONFIG.konfirmasiDefault) {
-      konfirmasiInput.value = CONFIG.konfirmasiDefault;
+      konfirmasiInput.value = '';
       konfirmasiInput.placeholder = `Default: ${CONFIG.konfirmasiDefault}`;
     }
 
