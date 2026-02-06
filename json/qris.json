@@ -1,5 +1,5 @@
 {
-  "Tala": {
+  "Tanah Laut": {
     "driveId": "1jIQtQ6SIniIYYxITH74gaGfGN676oO0_",
     "label": "QRIS Tanah Laut"
   },
@@ -7,7 +7,7 @@
     "driveId": "1jnwAiz4y6QcY-Uo4-czQaZf9PcE8rr7r",
     "label": "QRIS Kotabaru"
   },
-  "Banjar": {
+  "Kab. Banjar": {
     "driveId": "1ZJnZTb4L1aAdD_oDPc5y9xL8LAG4Kjjs",
     "label": "QRIS Kab Banjar"
   },
@@ -35,7 +35,7 @@
     "driveId": "1HuShFPxtOLGRKzsH9hNVD2RjJPrfsALS",
     "label": "QRIS Tabalong"
   },
-  "Tanbu": {
+  "Tanah Bumbu": {
     "driveId": "171IZe5_eq14S-LEdTRxJjQ6ZfCYPvaGa",
     "label": "QRIS Tanah Bumbu"
   },
@@ -43,11 +43,11 @@
     "driveId": "1hMtB88ApqkauvADBMAKkEcuDK8Vnj4kP",
     "label": "QRIS Balangan"
   },
-  "Bjm": {
+  "Banjarmasin": {
     "driveId": "1-03eAmuZ2jTP_afcvrccks0DE582QqFd",
     "label": "QRIS Banjarmasin"
   },
-  "Bjb": {
+  "Banjarbaru": {
     "driveId": "1wogfOKONVWYQ9lHoY2mnTj6iIiV2LcKk",
     "label": "QRIS Banjarbaru"
   }
