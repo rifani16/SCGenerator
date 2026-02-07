@@ -1,15 +1,15 @@
 {
   "baseUrl": "https://temanberbagi.org/",
   "rekening": {
-    "bsi": "200 300 4301",
+    "bsi": "200 300 4506",
     "mandiri": "03 100 40 800 800",
     "anBSI": "LAZNAS Yakesma",
     "anMandiri": "Yay. Kesejahteraan Madani"
   },
   "konfirmasiDefault": "08 123 2222 108",
   "googleDrive": {
-    "posterFolder": "https://drive.google.com/drive/folders/1Yk3oG-0bvFsrTDXDwsFpRY5D58vkqmiu?usp=sharing",
-    "qrisFolder": "https://drive.google.com/drive/folders/1drw5kYRIvcDj2Z9e9oNLyCaIL1YqTquz?usp=sharing"
+    "posterFolder": "https://drive.google.com/drive/folders/1kkV-J4kXk-0juX6G5y_MPuBXBIufr2s8?usp=sharing",
+    "qrisFolder": "https://drive.google.com/drive/folders/1jR26qBusCJ6CmGs28zg43v-Db-sNnMo0?usp=sharing"
   },
   "qrisRegions": [
     "Kabupaten Tanah Laut",

@@ -60,8 +60,8 @@ document.addEventListener('DOMContentLoaded', async () => {
  */
 async function loadData() {
   try {
-    const BASE_PATH = window.location.pathname.includes('/PCGenerator/')
-    ? '/PCGenerator'
+    const BASE_PATH = window.location.pathname.includes('/SCGenerator/')
+    ? '/SCGenerator'
     : '..';
     
     const CONFIG_URL = `${BASE_PATH}/json/data.json`;
