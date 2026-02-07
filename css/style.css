@@ -5,16 +5,16 @@
 
 /* ── Custom Properties (Design Tokens) ────────────────────────────────────── */
 :root {
-  --clr-bg:          #f0ebe3;           /* warm cream background */
+  --clr-bg:          #fff4e8;           /* soft warm orange background */
   --clr-card:        #ffffff;
-  --clr-primary:     #1b7a4a;           /* emerald – amal / Islam */
-  --clr-primary-dk:  #145e38;
-  --clr-primary-lt:  #e8f5ee;
-  --clr-accent:      #f5a623;           /* golden accent */
-  --clr-accent-lt:   #fef3dc;
-  --clr-text:        #2c2c2c;
-  --clr-text-muted:  #7a7a7a;
-  --clr-border:      #e0d9cf;
+  --clr-primary:     #f07c2f;           /* main orange */
+  --clr-primary-dk:  #d65f1e;           /* darker orange */
+  --clr-primary-lt:  #ffe3cf;           /* light orange */
+  --clr-accent:      #ffb703;           /* golden accent */
+  --clr-accent-lt:   #fff1cc;
+  --clr-text:        #2b2b2b;
+  --clr-text-muted:  #8a6f5a;           /* warm muted text */
+  --clr-border:      #f1d5c3;
   --clr-whatsapp:    #25d366;
   --clr-whatsapp-dk: #1da656;
 
